@@ -1,0 +1,11 @@
+pandas
+numpy
+opencv-python
+tensorflow
+fastapi
+uvicorn
+streamlit
+google-cloud-storage
+python-multipart
+
+pytest

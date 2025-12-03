@@ -1,1 +1,7 @@
+__pycache__
+*.pyc
+.env
+.ipynb_checkpoints
 raw_data/
+*.egg-info
+training_outputs/
