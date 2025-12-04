@@ -1,0 +1,14 @@
+artifact_uri: /home/aurelien/code/baptperr/clairvoyance - Copie/runs/mlflow/265143827197868892/21acc65785d44d0bbf47a3368c731105/artifacts
+end_time: 1764886114260
+entry_point_name: ''
+experiment_id: '265143827197868892'
+lifecycle_stage: active
+run_id: 21acc65785d44d0bbf47a3368c731105
+run_name: train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764883553614
+status: 3
+tags: []
+user_id: aurelien
